@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1541627982 source:c:\users\sebastian\documents\ciencias de la computacion i\practica laboratorio\src\animalarray.cpp
+	"AnimalArray.h"
+
+1541627982 c:\users\sebastian\documents\ciencias de la computacion i\practica laboratorio\include\animalarray.h
+	<string>
+
